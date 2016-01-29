@@ -14,6 +14,7 @@ A awesome list about Software Defined Network (SDN)
 
 - [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - A communications protocol that gives access to the forwarding plane of a network switch or router over the network.
 - [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
+- [OVSDB](https://tools.ietf.org/html/rfc7047) - A management plane protocol that in OpenvSwitch environment.
 
 # Controller
 
@@ -27,6 +28,7 @@ A awesome list about Software Defined Network (SDN)
 # Simulator/Emulator
 
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
+- [OpenNet](http://github.com/dlinknctu/opennet) - A Simulator for Software-Defined Wireless Local Area Network
 - [Epoch](http://northboundnetworks.com/epoch/) - SDN simulator for Mac OSX
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 
