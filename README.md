@@ -5,6 +5,7 @@ A awesome list about Software Defined Network (SDN)
 - [Awesome SDN](#awesome-sdn)
   - [Operating System](#operating-system)
   - [Software Switch](#software-switch)
+  - [Network Virtualization](#network-virtualization)
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
@@ -23,6 +24,11 @@ A awesome list about Software Defined Network (SDN)
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
+
+# Network Virtualization
+
+- [FlowVisor](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
+- [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 # Protocol
 
