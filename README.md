@@ -14,3 +14,12 @@ A awesome list about Software Defined Network (SDN)
 
 - [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - a communications protocol that gives access to the forwarding plane of a network switch or router over the network.
 - [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
+
+# Controller
+
+- [NOX](www.noxrepo.org)
+- [NodeFlow](https://github.com/gaberger/NodeFLow)
+- [ONOS](onosproject.org)
+- [OpenDaylight](https://www.opendaylight.org)
+- [POX](www.noxrepo.org/pox)
+- [Ryu](https://osrg.github.io/ryu)
