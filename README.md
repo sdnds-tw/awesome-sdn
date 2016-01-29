@@ -23,3 +23,8 @@ A awesome list about Software Defined Network (SDN)
 - [OpenDaylight](https://www.opendaylight.org)
 - [POX](www.noxrepo.org/pox)
 - [Ryu](https://osrg.github.io/ryu)
+
+# Simulator/Emulator
+
+- [Mininet](http://mininet.org/)
+- [Epoch](http://northboundnetworks.com/epoch/)
