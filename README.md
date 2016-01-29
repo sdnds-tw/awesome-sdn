@@ -3,15 +3,19 @@
 A awesome list about Software Defined Network (SDN) 
 
 - [Awesome SDN](#awesome-sdn)
+  - [Software Switch](#software-switch)
   - [Protocol](#protocol)
   - [Controller](#controller)
   - [Simulator/Emulator](#Simulator/Emulator)
   - [Language](#language)
+  - [Library](#Library)
 
 
 # Software Switch
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](http://www.projectfloodlight.org/indigo/) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
+- [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
+- [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 
 # Protocol
 
@@ -32,6 +36,7 @@ A awesome list about Software Defined Network (SDN)
 # Simulator/Emulator
 
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
+- [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [Epoch](http://northboundnetworks.com/epoch/) - SDN simulator for Mac OSX
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 
