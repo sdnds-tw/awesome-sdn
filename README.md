@@ -9,11 +9,15 @@ A awesome list about Software Defined Network (SDN)
   - [Language](#language)
 
 
+# Software Switch
+- [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
+- [Indigo](http://www.projectfloodlight.org/indigo/) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
 
 # Protocol
 
 - [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - A communications protocol that gives access to the forwarding plane of a network switch or router over the network.
 - [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
+- [OVSDB](https://tools.ietf.org/html/rfc7047) - A communication protocol which used to manage the OpenvSwitch database.
 
 # Controller
 
@@ -23,6 +27,7 @@ A awesome list about Software Defined Network (SDN)
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [POX](www.noxrepo.org/pox) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
+- [Floodlight](http://www.projectfloodlight.org/floodlight/) - A java-based openflow controller.
 
 # Simulator/Emulator
 
@@ -34,3 +39,5 @@ A awesome list about Software Defined Network (SDN)
 
 - [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
 
+# Library
+- [loxigen](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
