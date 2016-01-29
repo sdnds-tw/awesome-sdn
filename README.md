@@ -12,23 +12,25 @@ A awesome list about Software Defined Network (SDN)
 
 # Protocol
 
-- [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - a communications protocol that gives access to the forwarding plane of a network switch or router over the network.
+- [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - A communications protocol that gives access to the forwarding plane of a network switch or router over the network.
 - [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
 
 # Controller
 
-- [NOX](www.noxrepo.org)
-- [NodeFlow](https://github.com/gaberger/NodeFLow)
-- [ONOS](onosproject.org)
-- [OpenDaylight](https://www.opendaylight.org)
-- [POX](www.noxrepo.org/pox)
-- [Ryu](https://osrg.github.io/ryu)
+- [NOX](www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
+- [ONOS](onosproject.org) - Open Network Operating System.
+- [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
+- [POX](www.noxrepo.org/pox) - A networking software platform written in Python
+- [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 
 # Simulator/Emulator
 
-- [Mininet](http://mininet.org/)
-- [Epoch](http://northboundnetworks.com/epoch/)
+- [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
+- [Epoch](http://northboundnetworks.com/epoch/) - SDN simulator for Mac OSX
+- [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 
 # Language
 
-- [P4](http://p4.org/)
+- [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
+
