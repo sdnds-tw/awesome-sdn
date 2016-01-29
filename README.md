@@ -9,13 +9,14 @@ A awesome list about Software Defined Network (SDN)
   - [Simulator/Emulator](#Simulator/Emulator)
   - [Language](#language)
   - [Library](#Library)
-
+  - [Test](#Test)
 
 # Software Switch
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](http://www.projectfloodlight.org/indigo/) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
 - [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
+- [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 
 # Protocol
 
@@ -46,3 +47,6 @@ A awesome list about Software Defined Network (SDN)
 
 # Library
 - [loxigen](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
+
+# Test
+- [oftest](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
