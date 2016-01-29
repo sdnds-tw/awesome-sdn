@@ -32,4 +32,5 @@ A awesome list about Software Defined Network (SDN)
 
 # Language
 
-- [P4](http://p4.org/)
+- [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
+
