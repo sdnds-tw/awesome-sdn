@@ -14,6 +14,8 @@ A awesome list about Software Defined Network (SDN)
 # Software Switch
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo](http://www.projectfloodlight.org/indigo/) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
+- [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
+- [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 
 # Protocol
 
