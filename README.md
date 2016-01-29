@@ -17,12 +17,12 @@ A awesome list about Software Defined Network (SDN)
 
 # Controller
 
-- [NOX](www.noxrepo.org)
-- [NodeFlow](https://github.com/gaberger/NodeFLow)
-- [ONOS](onosproject.org)
-- [OpenDaylight](https://www.opendaylight.org)
-- [POX](www.noxrepo.org/pox)
-- [Ryu](https://osrg.github.io/ryu)
+- [NOX](www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
+- [ONOS](onosproject.org) - Open Network Operating System.
+- [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
+- [POX](www.noxrepo.org/pox) - A networking software platform written in Python
+- [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 
 # Simulator/Emulator
 
