@@ -1,6 +1,8 @@
 language: ruby
 rvm:
   - 2.2
+git:
+  depth: 1
 before_script:
   - gem install awesome_bot
 script:
