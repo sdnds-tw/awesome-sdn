@@ -55,7 +55,6 @@ A awesome list about Software Defined Network (SDN)
 
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
-- [Epoch](http://northboundnetworks.com/epoch/) - SDN simulator for Mac OSX
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports openflow environment.
 
