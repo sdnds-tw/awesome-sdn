@@ -1,8 +1,9 @@
 # Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
-A awesome list about Software Defined Network (SDN) 
+A awesome list about Software Defined Network (SDN)
 
 - [Awesome SDN](#awesome-sdn)
+  - [Introduction](#introduction)
   - [Operating System](#operating-system)
   - [Software Switch](#software-switch)
   - [Network Virtualization](#network-virtualization)
@@ -12,6 +13,10 @@ A awesome list about Software Defined Network (SDN)
   - [Language](#language)
   - [Library](#Library)
   - [Test](#Test)
+
+# Introduction
+  Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
+  Wiki : [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 # Operating System
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
