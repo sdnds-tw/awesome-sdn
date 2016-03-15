@@ -12,8 +12,8 @@ A awesome list about Software Defined Network (SDN)
   - [Controller](#controller)
   - [Simulator/Emulator](#simulatoremulator)
   - [Language](#language)
-  - [Library](#Library)
-  - [Test](#Test)
+  - [Library](#library)
+  - [Test](#test)
 
 # Introduction
   Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
