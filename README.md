@@ -14,6 +14,8 @@ A awesome list about Software Defined Network (SDN)
   - [Language](#language)
   - [Library](#Library)
   - [Test](#Test)
+  - [nfv](#nfv)
+  - [Misc](#Misc)
 
 # Introduction
   Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
@@ -93,3 +95,14 @@ protocol, based on Twisted.
 - [STS](https://ucb-sts.github.com/sts/) - SDN Troubleshooting System, simulates network devices, allowing programmatically test cases generation.
 - [nice-of](https://code.google.com/archive/p/nice-of/) - A tool to test OpenFlow controller application for the NOX controller platform.
 - [OpenSDNCore](http://www.opensdncore.org/) - Virtualisation Testbed for NFV/SDN Environment.
+
+# nfv
+
+- [OPNFV](https://www.opnfv.org) - Accelerating NFV's evolution through an integrated, open platform.
+
+# Misc
+
+- [Central Office Re-architected as a Datacenter, CORD](http://opencord.org) - Reference Implementation of a Service Delivery Platform that Provides Cloud Economies and Agility.
+- [OPEN-Orchestrator Project, Open-O](https://www.open-o.org)
+- [Open Source MANO Community, OSM](https://osm.etsi.org/welcome/)
+- [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
