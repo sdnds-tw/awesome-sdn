@@ -54,7 +54,7 @@ A awesome list about Software Defined Network (SDN)
 
 - [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
-- [ONOS](https://onosproject.org) - Open Network Operating System.
+- [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [POX](http://www.noxrepo.org/pox/about-pox/) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
