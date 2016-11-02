@@ -32,7 +32,7 @@ A awesome list about Software Defined Network (SDN)
 # Software Switch
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
-- [Indigo](http://www.projectfloodlight.org/indigo/) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
+- [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
 - [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
@@ -58,7 +58,7 @@ A awesome list about Software Defined Network (SDN)
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [POX](http://www.noxrepo.org/pox/about-pox/) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
-- [Floodlight](http://www.projectfloodlight.org/floodlight/) - A java-based openflow controller.
+- [Floodlight](https://github.com/floodlight/floodlight) - A java-based openflow controller.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
