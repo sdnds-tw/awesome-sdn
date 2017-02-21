@@ -1,11 +1,11 @@
 # Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
-A awesome list about Software Defined Network (SDN)
+An awesome list about Software Defined Networks (SDN)
 
 - [Awesome SDN](#awesome-sdn)
   - [Introduction](#introduction)
   - [Network Operating System](#network-operating-system)
-  - [Install Enviroment](#install-enviroment)
+  - [Install Environment](#install-environment)
   - [Software Switch](#software-switch)
   - [Network Virtualization](#network-virtualization)
   - [Protocol](#protocol)
@@ -24,9 +24,9 @@ A awesome list about Software Defined Network (SDN)
 # Network Operating System
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [OpenNetworkLinux](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
-- [OpenSwitch](http://www.openswitch.net) - A linux network oerating system from Hewlett-Packard.
+- [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Hewlett-Packard.
 
-# Install Enviroment
+# Install Environment
 - [ONIE](http://onie.org/) - ONIE enables a bare metal network switch ecosystem where end users have a choice among different network operating systems.
 
 # Software Switch
@@ -59,7 +59,7 @@ A awesome list about Software Defined Network (SDN)
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [POX](http://www.noxrepo.org/pox/about-pox/) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
-- [Floodlight](https://github.com/floodlight/floodlight) - A java-based openflow controller.
+- [Floodlight](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
@@ -74,7 +74,7 @@ A awesome list about Software Defined Network (SDN)
 - [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
-- [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports openflow environment.
+- [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
 
 # Language
 
