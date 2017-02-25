@@ -53,7 +53,6 @@ capabilities such as MPLS and SDN
 - [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
 - [OVSDB](https://tools.ietf.org/html/rfc7047) - A communication protocol which used to manage the OpenvSwitch database.
 - [POF](http://www.poforwarding.org/) - Protocol Oblivious Forwarding
-- [P4](http://p4.org/) - An open source language allowing the specifica+on of packet processing logic.
 
 # Controller
 
@@ -61,7 +60,6 @@ capabilities such as MPLS and SDN
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
-- [POX](http://www.noxrepo.org/pox/about-pox/) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 - [Floodlight](https://github.com/floodlight/floodlight) - A java-based openflow controller.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
