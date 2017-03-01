@@ -16,6 +16,8 @@ An awesome list about Software Defined Networks (SDN)
   - [Test](#Test)
   - [NFV](#nfv)
   - [Misc](#Misc)
+- [Resources](#resources)
+  - [Books](#books)
 
 # Introduction
   Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
@@ -114,3 +116,10 @@ protocol, based on Twisted.
 - [OPEN-Orchestrator Project, Open-O](https://www.open-o.org)
 - [Open Source MANO Community, OSM](https://osm.etsi.org/welcome/)
 - [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
+
+
+# Resources
+## Books
+- [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20)
+- [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
+
