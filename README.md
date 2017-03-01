@@ -15,6 +15,7 @@ An awesome list about Software Defined Networks (SDN)
   - [Library](#Library)
   - [Test](#Test)
   - [NFV](#nfv)
+  - [Overlay Network](#overlay-network)
   - [Misc](#Misc)
 - [Resources](#resources)
   - [Books](#books)
@@ -110,6 +111,10 @@ protocol, based on Twisted.
 
 - [OPNFV](https://www.opnfv.org) - Accelerating NFV's evolution through an integrated, open platform.
 
+# Overlay Network
+
+- [VXLAN](https://docs.ustack.com/unp/src/architecture/vxlan.html) - Virtual Extensible LAN
+
 # Misc
 
 - [Central Office Re-architected as a Datacenter, CORD](http://opencord.org) - Reference Implementation of a Service Delivery Platform that Provides Cloud Economies and Agility.
@@ -120,6 +125,7 @@ protocol, based on Twisted.
 
 # Resources
 ## Books
+
 - [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20)
 - [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
 
