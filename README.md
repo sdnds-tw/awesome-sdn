@@ -46,6 +46,7 @@ capabilities such as MPLS and SDN
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
 - [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
+- [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
 
 # Network Virtualization
 
@@ -99,6 +100,7 @@ protocol, based on Twisted.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
 - [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
 - [OCaml OpenFlow](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
+- [Scapy](http://www.secdev.org/projects/scapy/) - Scapy is a powerful interactive packet manipulation program.
 
 # Test
 
@@ -128,4 +130,8 @@ protocol, based on Twisted.
 
 - [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20)
 - [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
+- [重构网络-SDN架构与实现](http://www.sdnlab.com/book/18762.html)
+- [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
+- [SDN核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
+- [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
