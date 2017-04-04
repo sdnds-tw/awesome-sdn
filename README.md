@@ -128,4 +128,8 @@ protocol, based on Twisted.
 
 - [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20)
 - [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
+- [重构网络-SDN架构与实现](http://www.sdnlab.com/book/18762.html)
+- [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
+- [SDN核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
+- [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
