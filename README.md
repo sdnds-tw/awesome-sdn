@@ -16,6 +16,7 @@ An awesome list about Software Defined Networks (SDN)
   - [Test](#lest)
   - [NFV](#nfv)
   - [Overlay Network](#overlay-network)
+  - [Router](#router)
   - [Misc](#misc)
 - [Resources](#resources)
   - [Books](#books)
@@ -122,6 +123,17 @@ protocol, based on Twisted.
 # Overlay Network
 
 - [VXLAN](https://docs.ustack.com/unp/src/architecture/vxlan.html) - Virtual Extensible LAN
+
+# Router
+
+- [FreeRouter](http://freerouter.nop.hu/) - Python-based vRouter
+- [Bird](http://bird.network.cz/)
+- [Quagga](http://www.quagga.net/)
+- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
+- [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
+- [bgp4r](https://github.com/jesnault/bgp4r)
+- [gobgp](https://github.com/osrg/gobgp)
+- [yabgp](https://github.com/smartbgp/yabgp)
 
 # Misc
 
