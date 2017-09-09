@@ -29,7 +29,7 @@ An awesome list about Software Defined Networks (SDN)
 # Network Operating System
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
-- [OpenSwitch](http://www.openswitch.net) - A linux network oerating system from Dell EMC.
+- [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
@@ -129,10 +129,10 @@ protocol, based on Twisted.
 
 # Router
 
-- [FreeRouter](http://freerouter.nop.hu/) - Python-based vRouter
+- [FreeRouter](http://freerouter.nop.hu/) - Java-based vRouter
 - [Bird](http://bird.network.cz/)
 - [Quagga](http://www.quagga.net/)
-- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
+- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r](https://github.com/jesnault/bgp4r)
 - [gobgp](https://github.com/osrg/gobgp)
