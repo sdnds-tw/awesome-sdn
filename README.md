@@ -151,6 +151,7 @@ protocol, based on Twisted.
 # High Performance Network
 - [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
 It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
+- [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - In computing, remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking, which is especially useful in massively parallel computer clusters.
 
 # Userspace Network Stack
 - [mTCP](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io_engine driver and ported applications may differ from the mTCP’s.
