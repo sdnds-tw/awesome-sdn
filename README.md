@@ -18,6 +18,7 @@ An awesome list about Software Defined Networks (SDN)
   - [Overlay Network](#overlay-network)
   - [Router](#router)
   - [Misc](#misc)
+  - [High Performacne Network](#high-performance-network)
 - [Resources](#resources)
   - [Books](#books)
   - [Paper](#paper)
@@ -146,6 +147,9 @@ protocol, based on Twisted.
 - [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
 - [Open Network Automation Platform, ONAP](https://www.onap.org/) - Alignment of the two projects creates a harmonized and comprehensive framework for real-time, policy-driven software automation of virtual network functions that will enable software, network, IT and cloud providers and developers to rapidly create new services.
 
+# High Performance Network
+- [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
+It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
 
 # Resources
 ## Books
