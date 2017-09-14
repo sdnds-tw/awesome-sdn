@@ -52,6 +52,7 @@ capabilities such as MPLS and SDN
 - [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
 - [BESS](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
+- [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 
 # Network Virtualization
 
@@ -152,10 +153,15 @@ protocol, based on Twisted.
 # High Performance Network
 - [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
 It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
-- [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - In computing, remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking, which is especially useful in massively parallel computer clusters.
+- [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
+- [XDP](https://www.iovisor.org/technology/xdp) - XDP or eXpress Data Path provides a high performance, programmable network data path in the Linux kernel as part of the IO Visor Project.
 
 # Userspace Network Stack
 - [mTCP](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io_engine driver and ported applications may differ from the mTCP’s.
+- [net-next-nuse](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (NUSE) NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
+- [drv-netif-dpdk](https://github.com/rumpkernel/drv-netif-dpdk) - drv-netif-dpdk is a DPDK network interface for rump kernels. The combined result is a userspace TCP/IP stack doing packet I/O via DPDK.
+- [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+- [yanff](https://github.com/intel-go/yanff) - YANFF is a set of libraries for creating and deploying cloud-native Network Functions (NFs). It simplifies the creation of network functions without sacrificing performance.
 
 
 # Resources
@@ -175,3 +181,4 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
+- [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
