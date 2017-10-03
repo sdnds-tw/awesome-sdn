@@ -86,6 +86,7 @@ capabilities such as MPLS and SDN
 - [Beehive Network Controller](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
 - [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
+- [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
 
 # Simulator/Emulator
 
@@ -191,5 +192,8 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
 
-## Awesome Link
+## Awesome Posts
 - [VXLAN L3应用EVPN，呈现完整overlay网络](http://www.sdnlab.com/19879.html)
+
+## Awesome Slide
+- [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
