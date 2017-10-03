@@ -13,13 +13,14 @@ An awesome list about Software Defined Networks (SDN)
   - [Simulator/Emulator](#simulatoremulator)
   - [Language](#language)
   - [Library](#library)
-  - [Test](#lest)
+  - [Test](#test)
   - [NFV](#nfv)
   - [Overlay Network](#overlay-network)
   - [Router](#router)
   - [Misc](#misc)
   - [High Performacne Network](#high-performance-network)
   - [Userspace Network Stack](#userspace-network-stack)
+  - [Analytics](#analytics)
 - [Resources](#resources)
   - [Books](#books)
   - [Paper](#paper)
@@ -165,6 +166,10 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [yanff](https://github.com/intel-go/yanff) - YANFF is a set of libraries for creating and deploying cloud-native Network Functions (NFs). It simplifies the creation of network functions without sacrificing performance.
 
+# Analytics
+- [PNDA](http://pnda.io/) - The scalable, open source big data analytics platform for networks and services.
+- [SNAS](http://www.snas.io/) - Streaming Network Analytics System (project SNAS) is a framework to collect, track and access tens of millions of routing objects (routers, peers, prefixes) in real time.
+- [Apache Spot](http://spot.incubator.apache.org/) - Community-driven cybersecurity project, built from the ground up, to bring advanced analytics to all IT Telemetry data on an open, scalable platform
 
 # Resources
 ## Books
@@ -178,9 +183,13 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices](https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf)
 - [Network Programmability and Automation Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 - [SDN网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
+- [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
 
 ## Paper
 - [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
+
+## Awesome Link
+- [VXLAN L3应用EVPN，呈现完整overlay网络](http://www.sdnlab.com/19879.html)
