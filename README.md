@@ -37,6 +37,9 @@ An awesome list about Software Defined Networks (SDN)
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
 - [FlexSwitch](https://snaproute.com/) - The first open source network protocol suite offering complete layer2/layer3 functionality for accelerating development and deployment of whitebox networking gear
+- [beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
+- [SONiC](https://azure.github.io/SONiC/) - Software for Open Networking in the Cloud
+SONiC
 
 
 # Install Environment
