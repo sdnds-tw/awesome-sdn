@@ -75,7 +75,8 @@ SONiC
 
 # Controller
 
-- [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
