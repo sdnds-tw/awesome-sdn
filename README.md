@@ -106,7 +106,7 @@ SONiC
 # Language
 
 - [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
-- [POF](http://www.poforwarding.org/) - Protocol Oblivious Forwarding
+- [POF](https://dl.acm.org/citation.cfm?id=2491190) - Protocol Oblivious Forwarding
 - [Frenetic](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
 - [Pyretic](http://www.frenetic-lang.org/pyretic/) - Pyretic is one member of the Frenetic family of SDN programming languages.
 - [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (DSL) based on abstraction of network models and conclusion of operation patterns.
@@ -200,7 +200,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
 
 ## Awesome Posts
-- [VXLAN L3应用EVPN，呈现完整overlay网络](http://www.sdnlab.com/19879.html)
+- [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
 
 ## Awesome Slide
 - [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
