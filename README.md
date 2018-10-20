@@ -66,7 +66,7 @@ SONiC
 # Protocol
 
 - [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) - A communications protocol that gives access to the forwarding plane of a network switch or router over the network.
-- [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/1928-of-config) - OpenFlow Management and Configuration Protocol
+- [OF-Config](https://www.opennetworking.org/technical-communities/areas/specification/of-config/) - OpenFlow Management and Configuration Protocol
 - [OVSDB](https://tools.ietf.org/html/rfc7047) - A communication protocol which used to manage the OpenvSwitch database.
 - [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
 - [OpFlex](http://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-731302.html)
@@ -136,7 +136,7 @@ protocol, based on Twisted.
 
 # Overlay Network
 
-- [VXLAN](https://docs.ustack.com/unp/src/architecture/vxlan.html) - Virtual Extensible LAN
+- [VXLAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN) - Virtual Extensible LAN
 - [NVGRE](https://tools.ietf.org/html/draft-sridharan-virtualization-nvgre-00) - NVGRE-Network-Virtualization-using-Generic-Routing-Encapsulation
 
 # Router
@@ -201,6 +201,3 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 
 ## Awesome Posts
 - [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
-
-## Awesome Slide
-- [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
