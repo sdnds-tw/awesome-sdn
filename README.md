@@ -207,4 +207,5 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
 
 ## Awesome Slides
-- [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
+- [Open Source Networking & ONAP - The Linux Foundation]
+(https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
