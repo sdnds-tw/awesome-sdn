@@ -40,6 +40,7 @@ capabilities such as MPLS and SDN
 - [beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
 - [SONiC](https://azure.github.io/SONiC/) - Software for Open Networking in the Cloud
 SONiC
+- [Stratum](https://stratumproject.org/) - An open source, silicon-independent switch operating system for software-defined networks
 
 
 # Install Environment
