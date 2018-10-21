@@ -141,6 +141,7 @@ protocol, based on Twisted.
 
 - [VXLAN](https://en.wikipedia.org/wiki/Virtual_Extensible_LAN) - Virtual Extensible LAN
 - [NVGRE](https://tools.ietf.org/html/draft-sridharan-virtualization-nvgre-00) - NVGRE-Network-Virtualization-using-Generic-Routing-Encapsulation
+- [GENEVE](https://www.redhat.com/en/blog/what-geneve) - What is GENEVE?
 
 # Router
 
