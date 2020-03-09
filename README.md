@@ -56,7 +56,7 @@ An awesome list about Software Defined Networks (SDN)
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [Open vSwitch](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
-- [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
+- [PISCES](https://www.cs.princeton.edu/~jrex/papers/pisces16.pdf) - A Programmable, Protocol-Independent Software Switch.
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
 - [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 
@@ -150,7 +150,7 @@ An awesome list about Software Defined Networks (SDN)
 # Router
 
 - [bgp4r](https://github.com/jesnault/bgp4r) - BGP4R is a ruby library which enables the creation and manipulation of BGP messages. In BGP4R, all well-known BGP constructs are defined in classes.
-- [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
+- [BGPFeeder](https://github.com/BytemarkHosting/bgpfeeder)
 - [Bird](http://bird.network.cz/) - The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.
 - [FreeRouter](http://freerouter.nop.hu/) - Java-based vRouter
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
@@ -161,7 +161,6 @@ An awesome list about Software Defined Networks (SDN)
 # Misc
 
 - [Central Office Re-architected as a Datacenter, CORD](http://opencord.org) - Reference Implementation of a Service Delivery Platform that Provides Cloud Economies and Agility.
-- [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
 - [Mininet Spear Narmox](http://mininet.spear.narmox.com) - A online web service provides a visualization of Mininet Topology
 - [Open Network Automation Platform, ONAP](https://www.onap.org/) - Alignment of the two projects creates a harmonized and comprehensive framework for real-time, policy-driven software automation of virtual network functions that will enable software, network, IT and cloud providers and developers to rapidly create new services.
 - [Open Source MANO Community, OSM](https://osm.etsi.org/welcome/)
@@ -211,7 +210,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
-- [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
+- [SDN A Comprehensive Survey](https://arxiv.org/pdf/1406.0440.pdf)
 
 ## Awesome Posts
 - [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
