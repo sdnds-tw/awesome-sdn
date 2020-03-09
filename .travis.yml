@@ -6,5 +6,5 @@ git:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect
+  - awesome_bot README.md --allow-redirect --allow-ssl
 
