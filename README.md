@@ -110,6 +110,7 @@ An awesome list about Software Defined Networks (SDN)
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [Tinynet](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
+- [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi) - Mininet fork for Software-Defined Wireless Networks
 
 # Language
 
