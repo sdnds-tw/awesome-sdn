@@ -39,7 +39,7 @@ An awesome list about Software Defined Networks (SDN)
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
 - [OpenWrt](https://openwrt.org/) -  Is a Linux Operating System targeting embedded devices.
-- [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
+- [PicOS](https://www.pica8.com/picos-software/) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [SONiC](https://azure.github.io/SONiC/) - Software for Open Networking in the Cloud SONiC
 - [Stratum](https://stratumproject.org/) - An open source, silicon-independent switch operating system for software-defined networks
 
