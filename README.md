@@ -100,6 +100,8 @@ An awesome list about Software Defined Networks (SDN)
 - [Ryu](https://ryu-sdn.org/) - A component-based software defined networking framework.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
+- [Faucet]([https://github.com/BRCDcomm/BVC/](https://github.com/faucetsdn/faucet)) - OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
+
 
 # Simulator/Emulator
 
