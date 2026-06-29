@@ -188,6 +188,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 # Analytics
 
 - [Apache Spot](http://spot.incubator.apache.org/) - Community-driven cybersecurity project, built from the ground up, to bring advanced analytics to all IT Telemetry data on an open, scalable platform
+- [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight network traffic monitor with adaptive baseline DDoS detection, supporting sFlow, NetFlow, and IPFIX collection.
 - [PNDA](http://pnda.io/) - The scalable, open source big data analytics platform for networks and services.
 - [SNAS](http://www.snas.io/) - Streaming Network Analytics System (project SNAS) is a framework to collect, track and access tens of millions of routing objects (routers, peers, prefixes) in real time.
 
